@@ -41,7 +41,7 @@ sites/simpletest
 # Ignore multi-site test environment.
 # simpletest
 
-#my ignore
+# my ignore
 autoload.php
 
 
