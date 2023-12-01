@@ -44,6 +44,7 @@ sites/simpletest
 # my ignore
 autoload.php
 *sites.php
+.idea/*
 
 
 
